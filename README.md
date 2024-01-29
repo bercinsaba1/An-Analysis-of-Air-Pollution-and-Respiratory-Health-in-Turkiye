@@ -1,30 +1,47 @@
-# An-Analysis-of-Air-Pollution-and-Respiratory-Health-in-Turkiye
+# Air Pollution and Upper Respiratory Tract Diseases Relationship
 
-## Air Pollution Data Analysis Project
+In this project, we aim to analyze the connection between air pollution levels in Turkey and deaths related to upper respiratory tract diseases. This README.md file provides an overview of the project's objectives, data sources, analysis methods, and findings.
 
-### Overview
-This project is dedicated to the analysis of air pollution data. It utilizes Python and several libraries, including pandas, numpy, matplotlib, and seaborn, to process, analyze, and visualize air pollution data.
+## Project Objectives
 
-### Prerequisites
-Before running this project, ensure you have the following Python libraries installed:
-pandas
-numpy
-matplotlib
-seaborn
+Analyze air pollution levels in cities of Turkey.
+Examine mortality data related to upper respiratory tract diseases.
+Investigate the relationship between air pollution and upper respiratory tract diseases.
 
-### Data
-The project uses an air pollution dataset, likely containing measurements of pollutants across various locations and times. The exact structure and source of the data are to be specified.
+## Data Sources
 
-### Structure
-The notebook consists of the following main sections:
+The following data sources were used for this project:
 
-Initial Setup: Importing necessary Python libraries.
-Data Loading: Reading the air pollution dataset into a pandas DataFrame.
-Data Overview: Initial exploration of the data, including viewing the first few rows.
-Data Analysis and Visualization: (To be detailed based on the rest of the notebook contents).
+- PM10 Air Pollution Data
+- Mortality Data for Upper Respiratory Tract Diseases
+- Population Data for Cities of Turkey
 
-### Usage
-To use this notebook:
-Ensure you have Jupyter Notebook installed on your system.
-Open the notebook in Jupyter Notebook.
-Run the cells in order to execute the analysis. 
+## Analysis Methods
+
+- Data Collection: Obtain PM10 air pollution data for various cities in Turkey. Gather mortality data related to upper respiratory tract diseases.
+
+- Data Preprocessing: Clean the data, handle missing values, and perform necessary transformations.
+
+- Exploratory Data Analysis: Explore the relationship between PM10 levels and upper respiratory tract disease mortality rates through visualizations and statistical summaries.
+
+- Statistical Analysis: Conduct chi-square hypothesis test to determine the significance of the observed associations.
+
+- Interpretation of Results: Analyze the findings and draw conclusions regarding the relationship between PM10 air pollution and upper respiratory tract disease mortality.
+
+## Conclusion
+
+By conducting this data analysis project, we aim to contribute to the understanding of the potential link between air pollution and upper respiratory tract diseases in Turkey. The results obtained will provide valuable insights for policymakers, healthcare professionals, and researchers working in the field of environmental health.
+
+## Project Participants
+
+- Berçin Saba Güngör
+
+- İdil Güler
+
+- Yusuf Eren Akgün
+
+- Furkan Emre Güler
+
+- Muhammed Arda Akkan
+
+ 
